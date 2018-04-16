@@ -14,7 +14,7 @@
             "es6",
             "dom"
         ],
-        "baseUrl": ".",
+        "baseUrl": "./src",
         "paths": {
             "*": [
                 "./node_modules/tns-core-modules/*",
@@ -27,7 +27,7 @@
     ],
     "exclude": [
         "node_modules",
-        "platforms",
+      "platforms",
         "demo",
         "ng-demo"
     ]

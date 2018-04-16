@@ -2,6 +2,6 @@
 demo
 ng-demo
 tsconfig.json
-*.ts
+map-view-common.ts
 !*.d.ts
 scripts
